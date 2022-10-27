@@ -1,13 +1,10 @@
 {
-  "name": "ตารางดาวโจนส์ออกกี่โมง คืออะไร - เว็บใหม่ tubtim389 2023 ล่าสุด",
+  "name": "dER1PM9rCbPBUoC91GCOKJRRT9XAx1uPTuZffi1yQSWpDQ6k9C",
   "theme": "syntax",
   "version": "1.0.48",
   "description": "ตารางดาวโจนส์ออกกี่โมง หากสมาชิกสนใจเสี่ยงโชคแทงหวย ตาม ตารางดาวโจนส์ออกกี่โมง ที่ Tubtim389 เว็บหวยออนไลน์ อันดับหนึ่ง ซื้อหวยออนไลน์ สมัครซื้อหวยพม่าออนไ",
   "repository": "https://github.com/gullibles-02/underdoor-04",
-  "keywords": [
-    "ตารางดาวโจนส์ออกกี่โมง",
-    "ตารางดาวโจนส์ออกกี่โมง Tubtim389"
-  ],
+  "keywords": ["ตารางดาวโจนส์ออกกี่โมง","ตารางดาวโจนส์ออกกี่โมง Tubtim389"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
