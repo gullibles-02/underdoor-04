@@ -1,13 +1,10 @@
 {
-  "name": "ltpbet คืออะไร - เว็บใหม่ ruay 2023 ล่าสุด",
+  "name": "2p0kxs7VrtWEPK71be749D5tzN1oOKgEDD0OAxqambhKC36mNg",
   "theme": "syntax",
   "version": "1.0.18",
   "description": "Ltpbet จัดมาให้ครบทุกสูตร แต่ Ltpbet ที่ Ruay เว็บหวยออนไลน์ อันดับหนึ่ง ทุกเจ้า Ltpbet ทุกสำนัก รวมมาให้ได้เลือกไปแทงหวยกันไม่มีกั๊กไปเลย สำหรับคอหวยท่านใ",
   "repository": "https://github.com/gullibles-02/underdoor-04",
-  "keywords": [
-    "LTPBET",
-    "LTPBET Ruay"
-  ],
+  "keywords": ["LTPBET","LTPBET Ruay"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
