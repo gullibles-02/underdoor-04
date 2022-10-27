@@ -1,10 +1,13 @@
 {
-  "name": "mnZGycg7FiK9Yrbd5z8cJr8eHbz4bmdkjTwkjDzOxLHiCYyb8w",
+  "name": "ฮานอยextra สรุปว่าอะไร - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.60",
   "description": "ฮานอยextra สำหรับท่านใดที่ตรวจผลสลากกินแบ่งรัฐบาลแล้ว อย่างไรก็ดี ฮานอยextra Choke โชค หวยออนไลน์ มีหวยทุกชนิด ฮานอยextra ถ้าถูกรางวัลในงวดนี้กรุณาตรวจเช็ค",
   "repository": "https://github.com/gullibles-02/underdoor-04",
-  "keywords": ["ฮานอยEXTRA","ฮานอยEXTRA Choke"],
+  "keywords": [
+    "ฮานอยEXTRA",
+    "ฮานอยEXTRA Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
