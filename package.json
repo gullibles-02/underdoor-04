@@ -1,13 +1,10 @@
 {
-  "name": "หุ้นไทยช่องตลาด เลือกยังไง - เว็บใหม่ huay999 2023 ล่าสุด",
+  "name": "7h4Rbv0SGjW8ZfZGI24OFgLDfqWGBd62pSRK8FjTQByf59HQNz",
   "theme": "syntax",
   "version": "1.0.6",
   "description": "หุ้นไทยช่องตลาด มาถึงสูตรที่ หุ้นไทยช่องตลาด โดย หุ้นไทยช่องตลาด Huay999 หวยออนไลน์ อันดับหนึ่ง 3 สูตรนี้เป็นสูตรที่เว็บเราหวยกวางจัดทำขึ้นมาและหาดูที่ไหนไ",
   "repository": "https://github.com/gullibles-02/underdoor-04",
-  "keywords": [
-    "หุ้นไทยช่องตลาด",
-    "หุ้นไทยช่องตลาด Huay999"
-  ],
+  "keywords": ["หุ้นไทยช่องตลาด","หุ้นไทยช่องตลาด Huay999"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
