@@ -1,10 +1,22 @@
 {
-  "name": "Qx0xz72zkYpXm2jwwzd8KIPqsRjTD9VURh85cXLSY6vWiddFt1",
+  "name": "ตรวจหวย 1 สิงหาคม 65 ไทยรัฐ เลือกยังไง - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.42",
   "description": "ตรวจหวย 1 สิงหาคม 65 ไทยรัฐ เลข สำหรับ ตรวจหวย 1 สิงหาคม 65 ไทยรัฐ ที่ Thailotto เว็บหวยออนไลน์ อันดับหนึ่ง 2 ตัว ตรวจหวย 1 สิงหาคม 65 ไทยรัฐ 30 36 39ขอให้",
   "repository": "https://github.com/gullibles-02/underdoor-04",
-  "keywords": ["ตรวจหวย 1 สิงหาคม 65 ไทยรัฐ","ตรวจหวย","1","สิงหาคม","65","ไทยรัฐ","ตรวจหวย Thailotto","1 Thailotto","สิงหาคม Thailotto","65 Thailotto","ไทยรัฐ Thailotto"],
+  "keywords": [
+    "ตรวจหวย 1 สิงหาคม 65 ไทยรัฐ",
+    "ตรวจหวย",
+    "1",
+    "สิงหาคม",
+    "65",
+    "ไทยรัฐ",
+    "ตรวจหวย Thailotto",
+    "1 Thailotto",
+    "สิงหาคม Thailotto",
+    "65 Thailotto",
+    "ไทยรัฐ Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
