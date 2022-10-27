@@ -1,10 +1,13 @@
 {
-  "name": "ghnmlfV1UwHOzIVDipg4e8mgV2a65NMBwTpJtX6EK1VbJ5HVdN",
+  "name": "แนวทางหุ้นดาวโจนส์ ดูยังไง - เว็บใหม่ mawinbet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.20",
   "description": "แนวทางหุ้นดาวโจนส์ ได้แนวทางเลขเด็ดจากเจ๊นุ๊กกันแล้ว แต่ แนวทางหุ้นดาวโจนส์ Mawinbet มาวินเบท หวยออนไลน์ มีหวยทุกชนิด เลขครั้งนี้ได้มาแล้ว ต้องบอกเลยว่าต้อ",
   "repository": "https://github.com/gullibles-02/underdoor-04",
-  "keywords": ["แนวทางหุ้นดาวโจนส์","แนวทางหุ้นดาวโจนส์ Mawinbet"],
+  "keywords": [
+    "แนวทางหุ้นดาวโจนส์",
+    "แนวทางหุ้นดาวโจนส์ Mawinbet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
