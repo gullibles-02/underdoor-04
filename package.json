@@ -1,10 +1,16 @@
 {
-  "name": "RFHXdd1AtnBZ1ElMvztkzlgB8Y6pCFUk9gBF0fy2329MlzYMX3",
+  "name": "เว็บพนันออนไลน์ รีวิว คืออะไร - เว็บใหม่ lynsbobet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.79",
   "description": "เว็บพนันออนไลน์ รีวิว Nemoslot ได้แก่ เว็บพนันออนไลน์ รีวิว ที่ Lynsbobet เว็บพนัน อันดับหนึ่ง เว็บบริการเกมสล็อตออนไลน์จากหลายค่ายอย่าง Nemoslot Joker Kin",
   "repository": "https://github.com/gullibles-02/underdoor-04",
-  "keywords": ["เว็บพนันออนไลน์ รีวิว","เว็บพนันออนไลน์","รีวิว","เว็บพนันออนไลน์ Lynsbobet","รีวิว Lynsbobet"],
+  "keywords": [
+    "เว็บพนันออนไลน์ รีวิว",
+    "เว็บพนันออนไลน์",
+    "รีวิว",
+    "เว็บพนันออนไลน์ Lynsbobet",
+    "รีวิว Lynsbobet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
