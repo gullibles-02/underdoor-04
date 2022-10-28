@@ -1,20 +1,10 @@
 {
-  "name": "toto singapore 4d result แตกต่างกันอย่างไร - เว็บใหม่ huay 2023 ล่าสุด",
+  "name": "zV7J3ugKEPYWlWdiATnwXL1p6hL5nIot305jclZ3KE0UJrF5zi",
   "theme": "syntax",
   "version": "1.0.62",
   "description": "TOTO Singapore 4D Result หวยไทยรัฐ สู่ TOTO Singapore 4D Result Huay หวยออนไลน์ อันดับหนึ่ง เป็นชุดตารางเลขด่นที่เว็บไซต์หวยไทยนำมาจับเข้าคู่ให้คอหวยได้รับ",
   "repository": "https://github.com/gullibles-02/underdoor-04",
-  "keywords": [
-    "TOTO SINGAPORE 4D RESULT",
-    "TOTO",
-    "SINGAPORE",
-    "4D",
-    "RESULT",
-    "TOTO Huay",
-    "SINGAPORE Huay",
-    "4D Huay",
-    "RESULT Huay"
-  ],
+  "keywords": ["TOTO SINGAPORE 4D RESULT","TOTO","SINGAPORE","4D","RESULT","TOTO Huay","SINGAPORE Huay","4D Huay","RESULT Huay"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
