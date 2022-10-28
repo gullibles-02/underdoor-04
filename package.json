@@ -1,10 +1,16 @@
 {
-  "name": "PSh8tX43mV0JrujFr2W1CBmmiO0TTdsaEcmBxQjcy7ErbAqefx",
+  "name": "ตารางคะแนนลีก ยุโรป แตกต่างกันอย่างไร - เว็บใหม่ ltobet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.66",
   "description": "ตารางคะแนนลีก ยุโรป ใช้ผลการปิดตลาดของหุ้นสิงคโปร์ ตารางคะแนนลีก ยุโรป กับ ตารางคะแนนลีก ยุโรป Ltobet หวยออนไลน์ อันดับหนึ่ง ชื่อ Straits Times Indexในการอ",
   "repository": "https://github.com/gullibles-02/underdoor-04",
-  "keywords": ["ตารางคะแนนลีก ยุโรป","ตารางคะแนนลีก","ยุโรป","ตารางคะแนนลีก Ltobet","ยุโรป Ltobet"],
+  "keywords": [
+    "ตารางคะแนนลีก ยุโรป",
+    "ตารางคะแนนลีก",
+    "ยุโรป",
+    "ตารางคะแนนลีก Ltobet",
+    "ยุโรป Ltobet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
